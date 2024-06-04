@@ -1,9 +1,13 @@
 The Plunderizer v2.0
+
 Sea of Thieves Kill Counter
+
 Created by ShockwaveZ3R0
+
 twitch.tv/shockwavez3r0
 
 For use with OBS Studio or Streamlabs OBS.
+
 This application updates text files which can be used by OBS to update counters while live streaming.
 
 WARNING: The application is not digitally signed and may produce warnings by the Web Browser, Windows Defender, or Anti-Virus programs.
